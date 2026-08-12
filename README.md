@@ -28,6 +28,11 @@ Code scaffold: **[projects/mrcs/README.md](./projects/mrcs/README.md)**
 Primary file: [`resumes/Ravi_Ranjan_Upadhyay_Full_Stack_Developer.docx`](./resumes/Ravi_Ranjan_Upadhyay_Full_Stack_Developer.docx)  
 ATS plain text: [`resumes/Ravi_Ranjan_Upadhyay_Full_Stack_Developer_ATS.txt`](./resumes/Ravi_Ranjan_Upadhyay_Full_Stack_Developer_ATS.txt)
 
+## Interview study plan
+
+Java 1.8 + Spring Boot (questions mapped to resume projects):  
+[`docs/study-plans/java8-springboot-study-plan.md`](./docs/study-plans/java8-springboot-study-plan.md)
+
 ## Next coding step
 
 Implement the React screens and local mocks using the rules and OpenAPI sketch under `projects/mrcs/`, driven by the specs in `docs/mrcs/`.
