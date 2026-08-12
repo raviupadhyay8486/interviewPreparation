@@ -1,0 +1,129 @@
+openapi: 3.0.3
+info:
+  title: MRCS Local LIG / Provider Mocks
+  version: 0.1.0
+  description: >
+    Sketch of endpoints used by the Mortgage Record Change System React SPA.
+    Aligns with docs/mrcs/api-integrations.md for future coding.
+servers:
+  - url: http://localhost:8080
+paths:
+  /lender/account/{accountNumber}:
+    get:
+      summary: Search lender by account number (10 alphanumeric)
+      parameters:
+        - in: path
+          name: accountNumber
+          required: true
+          schema:
+            type: string
+            minLength: 10
+            maxLength: 10
+            pattern: '^[A-Za-z0-9]{10}$'
+        - in: header
+          name: Authorization
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Lender matches
+  /lender/search:
+    get:
+      summary: Search lender by name and address details
+      parameters:
+        - in: query
+          name: name
+          required: true
+          schema:
+            type: string
+            minLength: 3
+            maxLength: 90
+        - in: query
+          name: address
+          schema:
+            type: string
+            minLength: 2
+            maxLength: 60
+        - in: query
+          name: city
+          schema:
+            type: string
+            minLength: 2
+            maxLength: 18
+        - in: query
+          name: state
+          schema:
+            type: string
+        - in: header
+          name: Authorization
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Lender matches
+  /login/address/Region:
+    post:
+      summary: Address-based SF Region third-party lookup
+      parameters:
+        - in: header
+          name: Authorization
+          required: true
+          schema:
+            type: string
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [address]
+              properties:
+                address:
+                  type: string
+                city:
+                  type: string
+                state:
+                  type: string
+                zip:
+                  type: string
+      responses:
+        '200':
+          description: Region resolved
+  /ling-spin-vea/record-change:
+    post:
+      summary: Submit mortgage record change (CV API WRITE)
+      parameters:
+        - in: header
+          name: Authorization
+          required: true
+          schema:
+            type: string
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [changeType, currentLender, policies]
+              properties:
+                changeType:
+                  type: string
+                  example: Audit
+                currentLender:
+                  type: object
+                policies:
+                  type: array
+                  items:
+                    type: object
+      responses:
+        '200':
+          description: Change accepted
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+security:
+  - bearerAuth: []
