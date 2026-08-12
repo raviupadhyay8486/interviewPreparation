@@ -31,7 +31,8 @@ ATS plain text: [`resumes/Ravi_Ranjan_Upadhyay_Full_Stack_Developer_ATS.txt`](./
 
 ## Interview study plan
 
-- **Java 1.8 day-by-day (topic-wise, 21 days):** [`docs/study-plans/java8-day-by-day.md`](./docs/study-plans/java8-day-by-day.md)  
+- **Java 1.8 topics + interview Qs + hard challenges:** [`docs/study-plans/java8-topics-questions-challenges.md`](./docs/study-plans/java8-topics-questions-challenges.md)  
+- **Java 1.8 day-by-day (21 days):** [`docs/study-plans/java8-day-by-day.md`](./docs/study-plans/java8-day-by-day.md)  
 - **Java 1.8 + Spring Boot (full plan + question bank):** [`docs/study-plans/java8-springboot-study-plan.md`](./docs/study-plans/java8-springboot-study-plan.md)
 
 ## Next coding step

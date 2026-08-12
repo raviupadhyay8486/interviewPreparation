@@ -10,6 +10,8 @@
 3. Answer day’s questions out loud — 20–30 min  
 4. Mark: 🟢 Done · 🟡 Weak · 🔴 Redo  
 
+**Hard challenges + interview pack:** [`java8-topics-questions-challenges.md`](./java8-topics-questions-challenges.md)
+
 ---
 
 ## Week 1 — Core Java foundation (Days 1–7)
