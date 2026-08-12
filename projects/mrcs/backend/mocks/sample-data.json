@@ -1,0 +1,25 @@
+{
+  "lenders": [
+    {
+      "accountNumber": "ABCDE12345",
+      "lenderName": "Sample Mortgage Servicing LLC",
+      "address": "100 Market Street",
+      "city": "Bloomington",
+      "state": "IL"
+    },
+    {
+      "accountNumber": "SFARM00001",
+      "lenderName": "Demo Credit Union",
+      "address": "500 Oak Avenue",
+      "city": "Dallas",
+      "state": "TX"
+    }
+  ],
+  "regions": [
+    {
+      "zip": "61701",
+      "region": "IL-CENTRAL",
+      "sfRegionCode": "IL-C"
+    }
+  ]
+}
