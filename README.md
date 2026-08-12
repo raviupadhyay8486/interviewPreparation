@@ -6,8 +6,9 @@ Repository for **Java / AWS / Terraform / React** interview prep — plus a docu
 
 | Path | Purpose |
 |------|---------|
-| [`resumes/`](./resumes/) | ATS-friendly Full Stack Developer resume (DOCX + TXT) |
+| [`resumes/`](./resumes/) | ATS-friendly Full Stack Developer resume (DOCX + PDF + TXT) |
 | [`docs/mrcs/`](./docs/mrcs/) | MRCS product docs: architecture, B2E auth, UI flows, APIs, work notes |
+| [`docs/study-plans/`](./docs/study-plans/) | Interview study plans (Java 8 + Spring Boot questions) |
 | [`projects/mrcs/`](./projects/mrcs/) | Coding scaffold (React frontend stubs + backend OpenAPI mocks) |
 
 ## MRCS (State Farm — Lender Relations)
@@ -30,8 +31,8 @@ ATS plain text: [`resumes/Ravi_Ranjan_Upadhyay_Full_Stack_Developer_ATS.txt`](./
 
 ## Interview study plan
 
-Java 1.8 + Spring Boot (questions mapped to resume projects):  
-[`docs/study-plans/java8-springboot-study-plan.md`](./docs/study-plans/java8-springboot-study-plan.md)
+- **Java 1.8 day-by-day (topic-wise, 21 days):** [`docs/study-plans/java8-day-by-day.md`](./docs/study-plans/java8-day-by-day.md)  
+- **Java 1.8 + Spring Boot (full plan + question bank):** [`docs/study-plans/java8-springboot-study-plan.md`](./docs/study-plans/java8-springboot-study-plan.md)
 
 ## Next coding step
 

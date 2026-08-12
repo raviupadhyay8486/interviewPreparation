@@ -4,6 +4,8 @@
 **Goal:** Interview-ready depth on **Java 8** and **Spring Boot**, tied to resume projects (MRCS, Ancestry, Xebia MATT, MGM, SetPlex, Healthcare HIS).  
 **Cadence:** ~2–3 hours/day · **4-week core** · then ongoing revision.
 
+> **Java 8 only (topic-wise, day-by-day):** see [`java8-day-by-day.md`](./java8-day-by-day.md) — 21-day detailed plan.
+
 ---
 
 ## How to use this plan
