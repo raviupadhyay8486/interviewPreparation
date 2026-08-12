@@ -2,6 +2,19 @@
 
 Repository for **Java / AWS / Terraform / React** interview prep — plus a documented rebuild path for the **Mortgage Record Change System (MRCS)** work.
 
+## Setup (start here)
+
+**Full setup guide:** [`SETUP.md`](./SETUP.md)
+
+```bash
+git clone https://github.com/raviupadhyay8486/interviewPreparation.git
+cd interviewPreparation
+git checkout cursor/update-resume-mrcs-dfbf
+git pull origin cursor/update-resume-mrcs-dfbf
+```
+
+Open the folder in VS Code / Cursor / IntelliJ, then use the map below.
+
 ## Contents
 
 | Path | Purpose |
