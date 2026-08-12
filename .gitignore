@@ -9,3 +9,6 @@ build/
 coverage/
 .idea/
 *.iml
+
+# Java practice build output
+projects/java8-practice/out/
