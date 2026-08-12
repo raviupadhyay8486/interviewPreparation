@@ -1,0 +1,66 @@
+RAVI RANJAN UPADHYAY
+Full Stack Developer  |  Java · Spring Boot · React.js · AWS  |  14.5+ Years
+Bangalore, India  |  +91 8125328360  |  raviupa709@gmail.com  |  Open to Full-Time / Contract
+PROFESSIONAL SUMMARY
+Full Stack Developer and Technical Lead with 14.5+ years building enterprise web applications using Java, Spring Boot, React.js, JavaScript, REST APIs, and AWS. Hands-on across frontend SPA development, backend microservices, OAuth 2.0 / Microsoft Entra ID (B2E) authentication, third-party API integration, SQL databases, Docker, Kubernetes, CI/CD, and Agile delivery. Proven at modernizing legacy systems into scalable full-stack platforms for Insurance (Lender Relations), Healthcare, and Media. Ideal for Full Stack Developer, Senior Full Stack Engineer, Java Full Stack Lead, and AWS Full Stack roles.
+TECHNICAL SKILLS
+Full Stack: Java Full Stack, React.js SPA, REST API Design, End-to-End Feature Delivery, UI + Backend Integration
+Frontend: React.js, JavaScript (ES6+), HTML5, CSS3, SPA, Form Validation, Responsive UI
+Backend: Java 8/11+, Spring Boot, Spring Cloud, Spring Security, Spring Data JPA, Hibernate, Microservices, Feign Client
+APIs & Auth: RESTful APIs, OAuth 2.0, OIDC, Microsoft Entra ID (B2E), Okta, JWT/Bearer Token, API Gateway
+Cloud & DevOps: AWS (EC2, S3, Lambda, API Gateway, CloudFront, WAF, Route 53, ROSA), Docker, Kubernetes, OpenShift, Terraform, Argo CD, Jenkins, CI/CD
+Data & Messaging: SQL, SQL Server, Apache Kafka, Event-Driven Architecture, Async Processing
+Quality & Tools: JUnit, Mockito, TDD, SonarQube, Git, JIRA, Dynatrace, IntelliJ, Agile/Scrum, System Design, Mentoring
+PROFESSIONAL EXPERIENCE
+Full Stack Technical Lead  |  HTC Global Services Pvt Ltd  |  Jan 2024 – Present
+State Farm – Mortgage Record Change System (MRCS), Lender Relations  |  Jan 2025 – Present
+Delivered full-stack features for the newest MRCS by analyzing the legacy application and reimplementing workflows in React.js + Java/Spring.
+Built React.js SPA screens: Change Details, Search Lender by Account Number, and Search by Name/Address with validation and responsive UX.
+Implemented Microsoft Entra ID B2E (OAuth 2.0) authentication—Bearer tokens in Authorization/B2E header for secure REST calls to LIG gateway.
+Integrated address-based third-party APIs (region/location, lender/MIS) and defined SPA → CloudFront/WAF → Spring Cloud Gateway → downstream topology.
+Tech: React.js, JavaScript, Java, Spring Boot, Spring Cloud Gateway, Entra ID B2E, OAuth 2.0, REST, AWS CloudFront/S3/WAF/Route 53
+State Farm – AWS Cloud Migration, Observability & Full Stack Enablement  |  Jan 2024 – Present
+Led AWS ROSA (OpenShift) modernization of enterprise apps; improved scalability, resilience, and release velocity.
+Developed React.js dashboards for app health and AWS metrics; built Lambda/API Gateway integrations and Kafka event pipelines.
+Owned Kubernetes YAMLs for Spring Boot services, Argo CD blue-green deploys, and Dynatrace + Terraform alerting to cut MTTR.
+Tech: Java, Spring Boot, React.js, Kafka, AWS (ROSA, Lambda, EC2, S3, API Gateway), Kubernetes, Terraform, Argo CD, Docker
+Ancestry.com – Media Platform Modernization (Full Stack)  |  Apr 2023 – Dec 2023
+Upgraded Media 360 APIs Java 8 → 11 with zero downtime; migrated Spring Boot services from EC2 to OpenShift.
+Built React.js UI for media status/browsing; implemented Kafka streaming and MFA portal integration; unified repos for CI/CD.
+Tech: Java 11, Spring Boot, React.js, Kafka, AWS EC2/S3, OpenShift, Docker, Kubernetes
+Full Stack Technical Lead  |  Xebia IT Architects Pvt Ltd  |  Jul 2022 – Mar 2023
+MATT – Branch Exam Platform  |  Jul 2022 – Mar 2023
+Built Spring Boot + JPA microservices and async REST APIs; designed Excel batch import pipelines for hierarchical data.
+Led Agile delivery, code reviews, and legacy refactoring for a cross-functional full-stack team.
+Tech: Java, Spring Boot, Spring Data JPA, REST, Microservices, Batch, Agile
+Technical Lead – Full Stack / Backend  |  Tech Mahindra Pvt Ltd  |  Feb 2022 – Jun 2022
+MGM – Identity & Finance Platform  |  Feb 2022 – Jun 2022
+Delivered Okta OAuth2/OIDC + Spring Security PoC and microservices for User Roles and Month-End finance modules.
+Tech: Java, Spring Boot, Spring Security, Okta, OAuth 2.0, OIDC, JPA, REST
+Technical Lead – Microservices  |  Tech Mahindra Pvt Ltd  |  May 2021 – Jan 2022
+SetPlex – Monolith to Microservices (Media)  |  May 2021 – Jan 2022
+Decomposed media monolith into Spring Boot/Spring Cloud microservices with Feign Client; raised coverage via Mockito and AOP logging.
+Tech: Java, Spring Boot, Spring Cloud, Feign Client, Microservices, Mockito
+Technical Lead (Team of 6–8)  |  Napier Healthcare Solutions Pvt Ltd  |  Aug 2019 – Dec 2020
+Healthcare HIS – Microservices Transformation  |  Aug 2019 – Dec 2020
+Migrated hospital monolith (IP/OP/Pharmacy/Lab/Inventory) to Spring Boot microservices; added async REST, logging, and health checks.
+Tech: Java 8, Spring Boot, Spring Cloud, Feign Client, REST, Microservices
+Technical Lead (Team of 8)  |  Napier Healthcare Solutions Pvt Ltd  |  Nov 2016 – Aug 2019
+Healthcare HIS – Core Product Development  |  Nov 2016 – Aug 2019
+Led sprint planning and delivery for 8 engineers; enforced 90%+ Mockito coverage and peer code reviews on Java/Spring/Hibernate.
+Tech: Java, Spring, Hibernate, SQL, JUnit, Mockito, Agile
+Senior Full Stack Developer  |  Napier Healthcare Solutions Pvt Ltd  |  Jul 2014 – Oct 2016
+MU2 Certification – Decatur Hospital (Critical Access)  |  Jul 2014 – Oct 2016
+Achieved 100% MU2 Meaningful Use (36/36); built HL7 messaging and full-stack Java/Spring/jQuery/JavaScript features.
+Tech: Java, Spring, Hibernate, SQL Server, HL7, jQuery, JavaScript
+Full Stack Software Developer  |  Napier Healthcare Pvt Ltd  |  Aug 2011 – Jul 2014
+Napier Dental Solution – Practice Management  |  Aug 2011 – Jul 2014
+Delivered end-to-end full-stack modules (patient history, treatment, correspondence) on Struts2/Spring/Hibernate/JSP/SQL Server.
+Tech: Java, Struts2, Spring, Hibernate, JSP, Servlets, SQL Server, JavaScript
+KEY ACHIEVEMENTS
+Shipped newest State Farm MRCS full-stack release: React.js UI + Entra B2E auth + address/lender third-party API integrations.
+Cut production downtime ~15% via Dynatrace observability, RCA, and automated alerting; sustained 95%+ quality release rate with SonarQube.
+Led 2 major monolith → microservices programs; upgraded Java 8 → 11 for high-traffic APIs with zero downtime.
+Delivered MU2 Meaningful Use certification (36/36) for a US hospital—federally mandated compliance success.
+EDUCATION
+Master of Computer Applications (MCA) — Dr. Ambedkar Institute of Technology, Bangalore (VTU) | 2010
