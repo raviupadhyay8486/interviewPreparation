@@ -1,0 +1,23 @@
+{
+  "name": "Interview Preparation",
+  "user": "ubuntu",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": "."
+  },
+  "install": "./.cursor/cloud-agent-install.sh",
+  "start": "./.cursor/cloud-agent-start.sh",
+  "terminals": [
+    {
+      "name": "react-dev",
+      "command": "./.cursor/run-react-dev.sh",
+      "description": "React interview prep demo dev server on port 5173"
+    }
+  ],
+  "ports": [
+    {
+      "name": "react-dev",
+      "port": 5173
+    }
+  ]
+}
