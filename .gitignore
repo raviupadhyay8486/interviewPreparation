@@ -1,0 +1,17 @@
+node_modules/
+dist/
+build/
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store
+coverage/
+.idea/
+*.iml
+
+# Java practice build output
+projects/java8-practice/out/
+
+projects/java8-springboot-learn/target/
+projects/java8-practice/out/
