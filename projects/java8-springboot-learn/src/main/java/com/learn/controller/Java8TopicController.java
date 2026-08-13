@@ -62,6 +62,7 @@ public class Java8TopicController {
         apis.put("method-reference", "/api/java8/method-reference");
         apis.put("stream", "/api/java8/stream");
         apis.put("stream-map-flatmap", "/api/java8/stream/map-vs-flatmap");
+        apis.put("emails-multi-dept", "/api/java8/stream/emails-multi-dept");
         apis.put("collector", "/api/java8/collector");
         apis.put("optional", "/api/java8/optional");
         apis.put("datetime", "/api/java8/datetime");
@@ -94,6 +95,11 @@ public class Java8TopicController {
     @GetMapping("/stream/map-vs-flatmap")
     public ResponseEntity<Object> mapVsFlatMap() {
         return ResponseEntity.ok(streamDemo.mapVsFlatMap());
+    }
+
+    @GetMapping("/stream/emails-multi-dept")
+    public ResponseEntity<Object> emailsMultiDept() {
+        return ResponseEntity.ok(streamDemo.emailsInMultipleDepartments());
     }
 
     @GetMapping("/collector")

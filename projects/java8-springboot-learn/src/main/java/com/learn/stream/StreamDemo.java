@@ -5,6 +5,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.Arrays;
 import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 
 /**
@@ -45,5 +46,28 @@ public class StreamDemo {
                 .filter(e -> e.getSalary() >= 3000)
                 .map(Employee::getName)
                 .collect(Collectors.toList());
+    }
+
+    /**
+     * From departments, collect unique employee emails that appear in more than one department.
+     */
+    public Object emailsInMultipleDepartments() {
+        Map<String, List<Employee>> deptMap = DepartmentEmailData.sampleDepartmentMap();
+
+        Map<String, Object> result = new java.util.LinkedHashMap<String, Object>();
+        result.put("departmentData", deptMap.entrySet().stream()
+                .collect(Collectors.toMap(
+                        Map.Entry::getKey,
+                        e -> e.getValue().stream()
+                                .map(emp -> emp.getName() + " <" + emp.getEmail() + ">")
+                                .collect(Collectors.toList())
+                )));
+        result.put("emailsInMultipleDepartments",
+                DepartmentEmailData.emailsInMultipleDepartments(deptMap));
+        result.put("expected", Arrays.asList(
+                "ravi.ranjan@company.com (PD + MG)",
+                "ishaq@company.com (PD + HR)"
+        ));
+        return result;
     }
 }
