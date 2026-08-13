@@ -19,9 +19,11 @@ Open the folder in VS Code / Cursor / IntelliJ, then use the map below.
 
 | Path | Purpose |
 |------|---------|
-| [`resumes/`](./resumes/) | ATS-friendly Full Stack Developer resume (DOCX + PDF + TXT) |
+| [`resumes/`](./resumes/) | ATS-friendly resumes (Full Stack, Architect, Naukri notes) |
 | [`docs/mrcs/`](./docs/mrcs/) | MRCS product docs: architecture, B2E auth, UI flows, APIs, work notes |
 | [`docs/study-plans/`](./docs/study-plans/) | Interview study plans (Java 8 + Spring Boot questions) |
+| [`projects/java8-springboot-learn/`](./projects/java8-springboot-learn/) | **Runnable Java 1.8 + Spring Boot topic packages** (streams, collectors, etc.) |
+| [`projects/java8-practice/`](./projects/java8-practice/) | Small plain-Java Streams practice |
 | [`projects/mrcs/`](./projects/mrcs/) | Coding scaffold (React frontend stubs + backend OpenAPI mocks) |
 
 ## MRCS (State Farm — Lender Relations)
