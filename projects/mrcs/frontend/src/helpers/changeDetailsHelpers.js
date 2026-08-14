@@ -1,7 +1,9 @@
 /**
- * Stub helpers referenced by SelectLenderDetails (full file not fully visible in screenshots).
- * Align with your local changeDetailsHelpers.jsx when available.
+ * Stub helpers referenced by SelectLenderDetails.
+ * getLenderSlotKey is delegated to the extracted lenderSelectorHelpers.
+ * Align remaining helpers with your local changeDetailsHelpers.jsx when available.
  */
+export { getLenderSlotKey } from "./lenders/lenderSelectorHelpers";
 
 export const updateField = (e, formFields, setFormFields) => {
   const { name, value } = e?.target || {};
@@ -22,12 +24,4 @@ export const validateAddressFieldsHelper = (e, formFields, setFormFields) => {
 
 export const validateAccountFieldsHelper = (e, formFields, setFormFields) => {
   return /^[A-Za-z0-9]{10}$/.test(formFields.accountNumber || "");
-};
-
-export const getLenderSlotKey = (lenderType) => {
-  if (!lenderType) return "currentLender";
-  const key = String(lenderType).toLowerCase();
-  if (key.includes("current")) return "currentLender";
-  if (key.includes("new")) return "newLender";
-  return "currentLender";
 };
