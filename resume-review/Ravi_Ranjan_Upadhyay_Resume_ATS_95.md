@@ -5,7 +5,7 @@ Senior Java Developer | Java Backend Developer | Spring Boot Developer | Microse
 Bangalore, Karnataka, India
 Email: raviupa709@gmail.com
 Phone: +91 8125328360
-LinkedIn: linkedin.com/in/YOUR-PROFILE
+LinkedIn: https://www.linkedin.com/in/ravi-upadhyay-57a50a23/
 Total Experience: 14 Years
 Job Title: Senior Java Developer
 

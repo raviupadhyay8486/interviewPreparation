@@ -3,7 +3,7 @@
 **Senior Java Developer | Spring Boot & AWS Microservices | 14+ Years**
 
 Bangalore, India | raviupa709@gmail.com | +91 8125328360  
-LinkedIn: linkedin.com/in/YOUR-PROFILE *(replace with your custom URL)*
+LinkedIn: https://www.linkedin.com/in/ravi-upadhyay-57a50a23/
 
 ---
 

@@ -31,7 +31,7 @@ This version targets **90-95% ATS match** for typical Senior Java Developer / Sp
 ### 1. Copy to Word
 1. Open `Ravi_Ranjan_Upadhyay_Resume_ATS_95.md`
 2. Copy all text into **Microsoft Word** (not Google Docs first time — Word parses better for HR systems)
-3. Replace `linkedin.com/in/YOUR-PROFILE` with your real LinkedIn URL
+3. LinkedIn URL is set: https://www.linkedin.com/in/ravi-upadhyay-57a50a23/
 
 ### 2. Format in Word
 - Font: **Arial 10pt** or **Calibri 11pt**

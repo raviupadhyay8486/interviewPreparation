@@ -9,7 +9,7 @@ Use the version below as your base. Replace **[Company Name]**, **[Role Title]**
 **Ravi Ranjan Upadhyay**  
 Bangalore, India  
 raviupa709@gmail.com | +91 8125328360  
-LinkedIn: linkedin.com/in/YOUR-PROFILE
+LinkedIn: https://www.linkedin.com/in/ravi-upadhyay-57a50a23/
 
 ---
 

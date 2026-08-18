@@ -5,7 +5,7 @@ Senior Java Developer | Spring Boot Developer | Microservices | AWS Cloud | 14 Y
 Bangalore, Karnataka, India
 Email: raviupa709@gmail.com
 Phone: +91 8125328360
-LinkedIn: linkedin.com/in/YOUR-PROFILE
+LinkedIn: https://www.linkedin.com/in/ravi-upadhyay-57a50a23/
 
 
 PROFESSIONAL SUMMARY
