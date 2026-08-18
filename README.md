@@ -39,6 +39,10 @@ Newest-version project context (Jan 2025+):
 Start here: **[docs/mrcs/README.md](./docs/mrcs/README.md)**  
 Code scaffold: **[projects/mrcs/README.md](./projects/mrcs/README.md)**
 
+## Resume
+
+[`resume/Ravi_Ranjan_Upadhyay_Java_Architect.pdf`](./resume/Ravi_Ranjan_Upadhyay_Java_Architect.pdf)
+
 ## Interview study plan
 
 - **Java 1.8 interview Q&A (concepts + answers):** [`docs/study-plans/java8-interview-qa.md`](./docs/study-plans/java8-interview-qa.md)  

@@ -55,6 +55,7 @@ interviewPreparation/
 
 | You want to… | Go here |
 |--------------|---------|
+| Download resume | `resume/Ravi_Ranjan_Upadhyay_Java_Architect.pdf` |
 | Study Java 1.8 Q&A | `docs/study-plans/java8-interview-qa.md` |
 | Day-by-day Java plan | `docs/study-plans/java8-day-by-day.md` |
 | Hard Java challenges | `docs/study-plans/java8-topics-questions-challenges.md` |
