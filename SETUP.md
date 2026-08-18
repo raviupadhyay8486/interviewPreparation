@@ -163,8 +163,7 @@ https://github.com/raviupadhyay8486/interviewPreparation/tree/cursor/update-resu
 
 Or locally after clone:
 
-- Word: `resumes/Ravi_Ranjan_Upadhyay_Full_Stack_Developer.docx`
-- PDF: `resumes/Ravi_Ranjan_Upadhyay_Full_Stack_Developer.pdf`
+- PDF: `resumes/Ravi_Ranjan_Upadhyay_Java_Full_Stack_Architect.pdf`
 
 ---
 

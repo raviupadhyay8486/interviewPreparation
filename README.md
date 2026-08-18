@@ -19,7 +19,7 @@ Open the folder in VS Code / Cursor / IntelliJ, then use the map below.
 
 | Path | Purpose |
 |------|---------|
-| [`resumes/`](./resumes/) | ATS-friendly resumes (Full Stack, Architect, Naukri notes) |
+| [`resumes/`](./resumes/) | Primary resume (Java Full Stack Architect PDF) |
 | [`docs/mrcs/`](./docs/mrcs/) | MRCS product docs: architecture, B2E auth, UI flows, APIs, work notes |
 | [`docs/study-plans/`](./docs/study-plans/) | Interview study plans (Java 8 + Spring Boot questions) |
 | [`projects/java8-springboot-learn/`](./projects/java8-springboot-learn/) | **Runnable Java 1.8 + Spring Boot topic packages** (streams, collectors, etc.) |
@@ -41,8 +41,7 @@ Code scaffold: **[projects/mrcs/README.md](./projects/mrcs/README.md)**
 
 ## Resume
 
-Primary file: [`resumes/Ravi_Ranjan_Upadhyay_Full_Stack_Developer.docx`](./resumes/Ravi_Ranjan_Upadhyay_Full_Stack_Developer.docx)  
-ATS plain text: [`resumes/Ravi_Ranjan_Upadhyay_Full_Stack_Developer_ATS.txt`](./resumes/Ravi_Ranjan_Upadhyay_Full_Stack_Developer_ATS.txt)
+Primary file: [`resumes/Ravi_Ranjan_Upadhyay_Java_Full_Stack_Architect.pdf`](./resumes/Ravi_Ranjan_Upadhyay_Java_Full_Stack_Architect.pdf)
 
 ## Interview study plan
 
