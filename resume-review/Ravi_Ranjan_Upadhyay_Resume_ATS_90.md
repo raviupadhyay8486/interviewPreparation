@@ -90,9 +90,9 @@ May 2021 to June 2022
 
 Client Project: MGM Identity and Finance Platform
 
-- Developed Spring Boot microservices with Spring Security OAuth2 OIDC integration and Okta identity management
-- Built REST API backend services for user roles month end process and financial adjustment modules using JPA Hibernate
-- Implemented Factory and Strategy design patterns for authorization framework and role based access control logic
+- Architected and delivered three critical microservices User Roles Month End Process and Month End Adjustment using Spring Boot and JPA reducing deployment times for new features by 40 percent
+- Built Spring Boot POC integrating Okta OAuth2 OIDC with Spring Security delivering scalable role based authorization framework for finance platform REST API backend services
+- Implemented Factory and Strategy design patterns for authorization framework and role based access control improving maintainability of microservices architecture
 
 Technologies: Java, Spring Boot, Spring Security, OAuth2, OIDC, Okta, Spring Data JPA, Hibernate, Microservices, REST API, Maven, Git
 

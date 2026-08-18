@@ -74,8 +74,9 @@ Senior Java Engineer with **14.5+ years** designing and delivering **enterprise 
 **May 2021 – Jun 2022**
 
 #### Client: MGM — Identity & Finance Platform *(Feb 2022 – Jun 2022)*
-- Built **Spring Boot POC** for **Okta OAuth2/OIDC** integration with **Spring Security**, delivering a scalable user-role authorization framework.
-- Developed microservices for User Roles, Month-End Process, and Month-End Adjustment modules using **Spring Boot** and **JPA**.
+- Architected and delivered **three critical microservices** — User Roles, Month-End Process, and Month-End Adjustment — using **Spring Boot** and **JPA**, reducing deployment times for new features by **40%**.
+- Built **Spring Boot POC** integrating **Okta OAuth2/OIDC** with **Spring Security**, delivering a scalable role-based authorization framework for finance platform REST APIs.
+- Applied **Factory** and **Strategy** design patterns to authorization logic, improving maintainability and extensibility of user-role access control.
 
 **Tech Stack:** Java, Spring Boot, Spring Security, Okta, OAuth2, Spring Data JPA
 
