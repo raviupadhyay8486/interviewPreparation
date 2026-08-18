@@ -2,8 +2,6 @@ RAVI RANJAN UPADHYAY
 
 Java Architect | 14.5+ Years
 
-Java - AWS - Microservices - Spring - Hibernate - Kafka - Kubernetes
-
 Java - AWS - Microservices - Spring - Hibernate - Kafka - Kubernetes - Redis - React - TypeScript
 
 Bangalore, India | +91 8125328360 | raviupa709@gmail.com | Immediate Joiner | Open to Pune / Bangalore
@@ -12,14 +10,14 @@ LinkedIn: https://www.linkedin.com/in/ravi-upadhyay-57a50a23/
 
 PROFESSIONAL SUMMARY
 
-Java Architect and Solution Architecture leader with 14.5+ years in System Design, Distributed Systems, Event-Driven Architecture, and Microservices on Java 8/11/17, Spring Boot, Spring MVC, Spring Batch, Spring Security, Hibernate, JPA, and REST APIs. Expert in Apache Kafka, Redis, Netflix Eureka, Docker, Kubernetes, AWS (Lambda, S3, SQS, SNS, EKS, Code Artifact), Azure, CI/CD, Jenkins, Maven, and Git. Delivered scalable cloud-native platforms with Design Patterns, Performance Tuning, and Solution Architecture across Insurance, Healthcare, Media, and Finance. Hands-on with React, TypeScript, NestJS, MySQL, and PostgreSQL. Mentor of senior engineers; drives HLD/LLD reviews, secure API ecosystems, and production-grade microservices at scale.
+Java Architect and Solution Architecture leader with 14.5+ years in System Design, Distributed Systems, Event-Driven Architecture, and Microservices on Java 8/11/17, Spring Boot, Spring MVC, Spring Batch, Spring Security, Hibernate, JPA, and REST APIs. Expert in Apache Kafka, Redis, Netflix Eureka, Docker, Kubernetes, AWS (Lambda, S3, SQS, SNS, EKS, Code Artifact), Azure, CI/CD, Jenkins, Maven, and Git. Delivered scalable cloud-native platforms with Design Patterns, Performance Tuning, and Solution Architecture across Insurance, Healthcare, Media, and Finance. Hands-on with React, TypeScript, MySQL, and PostgreSQL. Mentor of senior engineers; drives HLD/LLD reviews, secure API ecosystems, and production-grade microservices at scale.
 
 
 TECHNICAL SKILLS
 
 Languages and Java: Java 8, Java 11, Java 17, JPA, JDBC, SQL
 
-Spring Ecosystem: Spring Boot, Spring MVC, Spring Batch, Spring Security, Spring Cloud, Spring Data JPA, Wicket, Hibernate
+Spring Ecosystem: Spring Boot, Spring MVC, Spring Batch, Spring Security, Spring Cloud, Spring Data JPA, Hibernate
 
 Microservices and APIs: Microservices, REST APIs, RESTful Web Services, Netflix Eureka, Service Discovery, Feign Client, API Gateway, Asynchronous Processing
 
@@ -31,7 +29,7 @@ Cloud Azure: Microsoft Azure, Azure Cloud Services, Hybrid Cloud Architecture
 
 Containers and DevOps: Docker, Kubernetes, OpenShift, EKS, CI/CD, Continuous Integration, Continuous Deployment, Jenkins, Git, GitHub, Argo CD, Terraform, Maven, Gradle
 
-Frontend: React, React.js, TypeScript, NestJS, JavaScript, SPA, Full Stack Integration
+Frontend: React, React.js, TypeScript, JavaScript, SPA, Full Stack Integration
 
 Databases: MySQL, PostgreSQL, Microsoft SQL Server, SQL Server, Database Design, Hibernate HQL
 
@@ -46,11 +44,11 @@ CORE ARCHITECTURE COMPETENCIES
 
 Architecture: Solution Architecture, System Design, Distributed Systems, Event-Driven Architecture, Microservices Architecture, Design Patterns, Scalability, Performance Tuning, HLD/LLD Review, Service Decomposition, API Gateway Patterns
 
-Backend Platform: Java 8/11/17, Spring Boot, Spring MVC, Spring Batch, Spring Security, Hibernate, JPA, Wicket, REST APIs, Microservices, Netflix Eureka, Kafka, Redis
+Backend Platform: Java 8/11/17, Spring Boot, Spring MVC, Spring Batch, Spring Security, Hibernate, JPA, REST APIs, Microservices, Netflix Eureka, Kafka, Redis
 
 Cloud Platform: AWS, Azure, Lambda, S3, SQS, SNS, EKS, AWS Code Artifact, Docker, Kubernetes, CI/CD, Jenkins, Maven, Git
 
-Full Stack: React, NestJS, TypeScript, JavaScript, API-first UI and Backend Integration
+Full Stack: React, TypeScript, JavaScript, API-first UI and Backend Integration
 
 Data: MySQL, PostgreSQL, SQL Server, Event Streaming, Batch Pipelines
 
@@ -136,4 +134,4 @@ Master of Computer Applications (MCA) - Dr. Ambedkar Institute of Technology, Ba
 
 TARGET ROLE / AVAILABILITY
 
-Target: Java Architect, Solution Architecture, Platform Architecture. Core skills: Java 8/11/17, Spring Boot, Spring MVC, Spring Batch, Spring Security, Wicket, Hibernate, JPA, REST APIs, Microservices, Netflix Eureka, Kafka, Redis, Docker, Kubernetes, AWS, AWS Code Artifact, Azure, EKS, Lambda, S3, SQS, SNS, React, NestJS, TypeScript, MySQL, PostgreSQL, CI/CD, Jenkins, Maven, Git, System Design, Distributed Systems, Event-Driven Architecture, Design Patterns, Scalability, Performance Tuning, Solution Architecture. Locations: Bangalore / Pune. Immediate joiner.
+Target: Java Architect, Solution Architecture, Platform Architecture. Core skills: Java 8/11/17, Spring Boot, Spring MVC, Spring Batch, Spring Security, Hibernate, JPA, REST APIs, Microservices, Netflix Eureka, Kafka, Redis, Docker, Kubernetes, AWS, AWS Code Artifact, Azure, EKS, Lambda, S3, SQS, SNS, React, TypeScript, MySQL, PostgreSQL, CI/CD, Jenkins, Maven, Git, System Design, Distributed Systems, Event-Driven Architecture, Design Patterns, Scalability, Performance Tuning, Solution Architecture. Locations: Bangalore / Pune. Immediate joiner.
