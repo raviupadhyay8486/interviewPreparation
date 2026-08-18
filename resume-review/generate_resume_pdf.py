@@ -93,7 +93,16 @@ def build_pdf(source: Path, output: Path) -> None:
 
 if __name__ == "__main__":
     base = Path(__file__).parent
-    source = base / "Ravi_Ranjan_Upadhyay_Resume_ATS_95.md"
-    output = base / "Ravi_Ranjan_Upadhyay_Resume_ATS_95.pdf"
-    build_pdf(source, output)
-    print(f"Generated: {output}")
+    sources = [
+        ("Ravi_Ranjan_Upadhyay_Resume_ATS_95.md", "Ravi_Ranjan_Upadhyay_Resume_ATS_95.pdf"),
+        (
+            "Ravi_Ranjan_Upadhyay_Resume_JD_Backend_Platform.md",
+            "Ravi_Ranjan_Upadhyay_Resume_JD_Backend_Platform.pdf",
+        ),
+    ]
+    for src_name, out_name in sources:
+        source = base / src_name
+        if source.exists():
+            output = base / out_name
+            build_pdf(source, output)
+            print(f"Generated: {output}")
