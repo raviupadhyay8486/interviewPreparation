@@ -43,7 +43,6 @@ git pull origin cursor/update-resume-mrcs-dfbf
 
 ```text
 interviewPreparation/
-├── resumes/                  ← Your resume (Word + PDF + ATS text)
 ├── docs/
 │   ├── mrcs/                 ← MRCS project knowledge (architecture, UI, APIs, B2E)
 │   └── study-plans/          ← Java 8 study plans + interview Q&A
@@ -55,7 +54,6 @@ interviewPreparation/
 
 | You want to… | Go here |
 |--------------|---------|
-| Download / edit resume | `resumes/` |
 | Study Java 1.8 Q&A | `docs/study-plans/java8-interview-qa.md` |
 | Day-by-day Java plan | `docs/study-plans/java8-day-by-day.md` |
 | Hard Java challenges | `docs/study-plans/java8-topics-questions-challenges.md` |
@@ -155,24 +153,12 @@ Then open a Pull Request on GitHub into `main` (or into the existing working bra
 
 ---
 
-## 6. Download your resume
-
-From GitHub folder:
-
-https://github.com/raviupadhyay8486/interviewPreparation/tree/cursor/update-resume-mrcs-dfbf/resumes
-
-Or locally after clone:
-
-- PDF: `resumes/Ravi_Ranjan_Upadhyay_Java_Full_Stack_Architect.pdf`
-
----
-
 ## 7. Suggested first week setup plan
 
 | Day | Action |
 |-----|--------|
 | Day 1 | Clone repo, checkout branch, open in VS Code/Cursor |
-| Day 1 | Download resume PDF/DOCX; verify study-plan files open |
+| Day 1 | Verify study-plan files open |
 | Day 2–3 | Java Q&A: 20 questions/day from `java8-interview-qa.md` |
 | Day 4 | Create `projects/java8-practice` and solve 2 Streams problems |
 | Day 5 | Read `docs/mrcs/architecture.md` + `ui-flows.md` |
@@ -195,8 +181,7 @@ Your latest work is only on branch `cursor/update-resume-mrcs-dfbf`.
 | Problem | Fix |
 |---------|-----|
 | `main` looks empty / old | Checkout `cursor/update-resume-mrcs-dfbf` or merge the PR |
-| Don’t see PDF/DOCX | `git pull` on the working branch |
-| Want to edit resume | Edit DOCX locally, then `git add resumes/ && git commit && git push` |
+| Don’t see latest docs | `git pull` on the working branch |
 | Node/Java not found | Install JDK / Node and restart terminal |
 
 ---

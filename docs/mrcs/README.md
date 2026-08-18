@@ -41,5 +41,4 @@ Work leaned toward:
 
 ## Related repo paths
 
-- Resume artifacts: [`../../resumes/`](../../resumes/)
 - Coding scaffold (future implementation): [`../../projects/mrcs/`](../../projects/mrcs/)
