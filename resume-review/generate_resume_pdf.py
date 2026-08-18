@@ -56,6 +56,21 @@ def build_pdf(source: Path, output: Path) -> None:
             pdf.ln(1)
             continue
 
+        if "Technical Lead" in line and ("Spring Boot" in line or "14.5" in line or "14+" in line):
+            pdf.set_font("Helvetica", "B", 11)
+            pdf.multi_cell(width, 5, line)
+            pdf.ln(1)
+            pdf.set_font("Helvetica", size=9)
+            continue
+
+        if line.startswith("Java ·") or line.startswith("Java "):
+            if "Spring Boot" in line and "Microservices" in line and len(line) < 80:
+                pdf.set_font("Helvetica", "B", 10)
+                pdf.multi_cell(width, 5, line)
+                pdf.ln(1)
+                pdf.set_font("Helvetica", size=9)
+                continue
+
         if line in SECTION_HEADERS:
             pdf.ln(3)
             pdf.set_font("Helvetica", "B", 11)

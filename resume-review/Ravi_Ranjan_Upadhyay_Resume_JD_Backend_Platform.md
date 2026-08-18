@@ -1,11 +1,13 @@
 RAVI RANJAN UPADHYAY
 
-Senior Backend Engineer | Platform Lead | Java 17 | AWS Microservices | 14 Years
+Java Full Stack Technical Lead | Spring Boot · Spring Cloud · Kafka · Kubernetes · Cloud Platforms | 14.5+ Years
+
+Java · Spring Boot · Microservices · AWS · Kafka · Hibernate · React
 
 Bangalore, Karnataka, India
 Email: raviupa709@gmail.com | Phone: +91 8125328360
 LinkedIn: https://www.linkedin.com/in/ravi-upadhyay-57a50a23/
-Experience: 14 Years | Open to Full-Time and Contract
+Experience: 14.5+ Years | Open to Full-Time and Contract
 
 
 PROFESSIONAL SUMMARY

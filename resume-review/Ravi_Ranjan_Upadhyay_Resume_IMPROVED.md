@@ -1,6 +1,8 @@
 # RAVI RANJAN UPADHYAY
 
-**Senior Java Developer | Spring Boot & AWS Microservices | 14+ Years**
+**Java Full Stack Technical Lead | Spring Boot · Spring Cloud · Kafka · Kubernetes · Cloud Platforms | 14.5+ Years**
+
+Java · Spring Boot · Microservices · AWS · Kafka · Hibernate · React
 
 Bangalore, India | raviupa709@gmail.com | +91 8125328360  
 LinkedIn: https://www.linkedin.com/in/ravi-upadhyay-57a50a23/

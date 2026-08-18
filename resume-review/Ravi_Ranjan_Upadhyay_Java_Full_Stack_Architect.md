@@ -1,11 +1,13 @@
 RAVI RANJAN UPADHYAY
 
-IT Architect | Lead Technical Consultant | Java Full Stack Architect | 14+ Years
+Java Full Stack Technical Lead | Spring Boot · Spring Cloud · Kafka · Kubernetes · Cloud Platforms | 14.5+ Years
+
+Java · Spring Boot · Microservices · AWS · Kafka · Hibernate · React
 
 Bangalore, Karnataka, India
 Email: raviupa709@gmail.com | Phone: +91 8125328360
 LinkedIn: https://www.linkedin.com/in/ravi-upadhyay-57a50a23/
-Experience: 14+ Years | Open to Full-Time and Contract
+Experience: 14.5+ Years | Open to Full-Time and Contract
 
 
 EXECUTIVE SUMMARY
@@ -35,7 +37,7 @@ Quality and Tools: JUnit, Mockito, TDD, SonarQube, Dynatrace, Maven, Gradle, Int
 PROFESSIONAL EXPERIENCE
 
 HTC Global Services Pvt Ltd
-IT Architect | Full Stack Technical Lead | Bangalore, India
+Java Full Stack Technical Lead | IT Architect | Bangalore, India
 January 2024 to Present
 
 State Farm - Mortgage Record Change System (MRCS) | January 2025 to Present
