@@ -1,172 +1,83 @@
 RAVI RANJAN UPADHYAY
 
-Senior Java Developer | Java Backend Developer | Spring Boot Developer | Microservices Developer | AWS Developer | Technical Lead | 14 Years Experience
+Senior Java Developer | Spring Boot | Microservices | AWS | 14 Years Experience
 
 Bangalore, Karnataka, India
-Email: raviupa709@gmail.com
-Phone: +91 8125328360
+Email: raviupa709@gmail.com | Phone: +91 8125328360
 LinkedIn: https://www.linkedin.com/in/ravi-upadhyay-57a50a23/
-Total Experience: 14 Years
-Job Title: Senior Java Developer
+Experience Level: Senior (14 Years) | Job Title: Senior Java Developer
 
 
 PROFESSIONAL SUMMARY
 
-Senior Java Developer and Backend Engineer with 14 years of professional experience in software development, backend development, server side development, and enterprise application development. Expert in Java, Java 8, Java 11, Java 17, Spring Boot, Spring Boot 2, Spring Framework, Spring Cloud, Spring Security, Spring Data JPA, Spring MVC, Spring Batch, Spring AOP, Hibernate, JPA, JDBC, and REST API development. Specialist in microservices architecture, microservices development, microservices design, distributed systems, and monolith to microservices migration. Proficient in Amazon Web Services AWS including AWS EC2, AWS S3, AWS Lambda, AWS API Gateway, AWS IAM, AWS CloudWatch, AWS AMI, cloud migration, and cloud native development. Strong command of SOLID principles, object oriented programming OOP, software design patterns, Factory pattern, Strategy pattern, Repository pattern, Builder pattern, Singleton pattern, Adapter pattern, Observer pattern, and Dependency Injection. Experienced in Apache Kafka, event driven architecture, message queue, Docker, Kubernetes, OpenShift, Terraform, Jenkins, Git, GitHub, CI/CD, continuous integration, continuous deployment, DevOps, Argo CD, SonarQube, Dynatrace, Maven, Gradle, JUnit, Mockito, unit testing, integration testing, test driven development TDD, and Agile Scrum SDLC methodology. Technical Lead with experience leading teams of 6 to 8 software engineers across Healthcare, Insurance, and Media domains. Delivered 90 percent unit test coverage, 95 percent quality release rate, zero downtime blue green deployment, and Java version upgrades for high traffic production systems.
+Senior Java Developer with 14 years of experience building enterprise backend systems using Java 8, Java 11, Java 17, Spring Boot, Spring Cloud, Hibernate, JPA, and REST APIs. Specialist in microservices architecture, monolith-to-microservices migration, Apache Kafka, and AWS (EC2, S3, Lambda, API Gateway). Strong in SOLID principles, design patterns, OAuth2, Docker, Kubernetes, Terraform, Jenkins CI/CD, JUnit, and Mockito. Technical Lead for teams of 6-8 engineers across Healthcare, Insurance, and Media. Delivered 90% test coverage, 95% release quality, and zero-downtime cloud deployments.
 
 
 SKILLS
 
-Java, Java 8, Java 11, Java 17, J2EE, Enterprise Java, Spring Boot, Spring Boot 2, Spring Boot 3, Spring Framework, Spring Cloud, Spring Security, Spring Data JPA, Spring MVC, Spring Batch, Spring AOP, Hibernate, JPA, JDBC, Struts2, Servlets, JSP, Microservices, Microservices Architecture, Microservices Development, Microservices Design, Microservices Patterns, REST API, RESTful Web Services, RESTful API, Web Services, API Development, API Gateway, API Design, JSON, XML, Backend Development, Backend Engineer, Server Side Development, Distributed Systems, Scalable Systems, High Availability, Event Driven Architecture, Domain Driven Design, Monolith to Microservices Migration, Monolith Migration, Application Modernization, Legacy Migration, Circuit Breaker, Feign Client, Service Discovery, Asynchronous Processing, Message Queue, Apache Kafka, Kafka Producer, Kafka Consumer, Event Streaming, Amazon Web Services, AWS, AWS EC2, AWS S3, AWS Lambda, AWS API Gateway, AWS IAM, AWS CloudWatch, AWS AMI, AWS RDS, AWS VPC, Cloud Migration, Cloud Native Development, Cloud Computing, Infrastructure as Code, IaC, Docker, Kubernetes, OpenShift, ROSA, Containerization, Orchestration, Terraform, Jenkins, Git, GitHub, Bitbucket, CI/CD, Continuous Integration, Continuous Deployment, DevOps, Argo CD, SonarQube, Dynatrace, Maven, Gradle, Build Tools, Linux, SQL, Microsoft SQL Server, SQL Server, Database Design, Database Development, Hibernate HQL, Relational Database, OAuth2, OAuth 2.0, OIDC, OpenID Connect, Okta, Identity Management, Multi Factor Authentication, HL7, HL7 Messaging, JUnit, Mockito, Unit Testing, Integration Testing, Software Testing, Test Driven Development, TDD, Code Review, Software Quality Assurance, 90 Percent Code Coverage, SOLID Principles, Design Patterns, Object Oriented Programming, OOP, Software Architecture, Software Design, Application Architecture, Software Development Life Cycle, SDLC, Agile, Scrum, Sprint Planning, Sprint Delivery, Technical Documentation, Root Cause Analysis, Performance Optimization, Production Support, Incident Management, Blue Green Deployment, Zero Downtime Deployment, Load Balancing, Auto Scaling, Technical Lead, Team Lead, Senior Java Developer, Java Developer, Java Backend Developer, Spring Boot Developer, Microservices Developer, AWS Developer, Cloud Engineer, Software Engineer, Software Developer, Backend Developer, Application Developer, Lead Developer, Enterprise Application Development, Web Application Development, Healthcare IT, Insurance Technology, Media Technology, Bangalore, India, 14 Years Experience
+Java, Java 8, Java 11, Java 17, Spring Boot, Spring Cloud, Spring Security, Spring Data JPA, Hibernate, JPA, Microservices, REST API, AWS, EC2, S3, Lambda, API Gateway, Kafka, Docker, Kubernetes, OpenShift, Terraform, Jenkins, Git, CI/CD, DevOps, Argo CD, Maven, Gradle, JUnit, Mockito, SQL, SQL Server, OAuth2, Okta, HL7, SOLID Principles, Design Patterns, OOP, Agile, Scrum, SDLC, SonarQube, Dynatrace, Backend Development, Cloud Migration, Event-Driven Architecture, Technical Lead
 
 
 PROFESSIONAL EXPERIENCE
 
 HTC Global Services Pvt Ltd
-Job Title: Senior Java Developer | Technical Lead | Spring Boot Microservices AWS
-Location: Bangalore, Karnataka, India
-Employment Dates: January 2024 to Present
-Duration: 2 Years
+Senior Java Developer | Technical Lead | Bangalore, India
+January 2024 to Present
 
-Client: State Farm Insurance - AWS Cloud Migration and Observability Platform
-
-- Spearheaded migration of multiple Spring Boot microservices to AWS ROSA Red Hat OpenShift on AWS and Kubernetes across development staging and production environments enabling cloud native auto scaling and high availability for insurance platform
-- Built AWS Lambda serverless functions and AWS API Gateway REST API integrations modernizing legacy service boundaries and reducing synchronous microservices coupling for enterprise backend systems
-- Designed Apache Kafka event streaming and message queue pipelines for event driven microservices architecture enabling real time fault tolerant data processing across distributed systems
-- Configured Docker containerization and Kubernetes deployment YAML for Spring Boot Java applications with horizontal and vertical auto scaling reducing cloud resource over provisioning costs
-- Automated Infrastructure as Code using Terraform and Jenkins CI/CD pipelines with Argo CD enabling zero downtime blue green deployment and continuous deployment for production microservices
-- Applied SOLID principles Factory Strategy Repository design patterns and Dependency Injection during microservices decomposition and Spring Boot service layer refactoring improving code maintainability
-- Reduced incident response time by 40 percent building automated Dynatrace and Terraform alerting pipelines for AWS CloudWatch application performance monitoring and production incident management
-- Led code reviews and enforced JUnit Mockito unit testing standards achieving 90 percent code coverage and SonarQube software quality assurance quality gates across Spring Boot microservices
-
-Technologies Used: Java, Java 11, Spring Boot, Spring Cloud, Spring Security, Microservices, REST API, RESTful Web Services, Apache Kafka, AWS, Amazon Web Services, AWS EC2, AWS S3, AWS Lambda, AWS API Gateway, AWS IAM, AWS CloudWatch, Docker, Kubernetes, Terraform, Jenkins, Git, CI/CD, DevOps, Argo CD, Dynatrace, SonarQube, Maven, JUnit, Mockito, Agile, Scrum
+Client: State Farm Insurance - AWS Cloud Migration
+- Spearheaded Spring Boot microservices migration to AWS ROSA, Kubernetes, and Docker across 3 environments, enabling cloud-native auto-scaling for insurance platform
+- Reduced incident response time by 40% via Dynatrace and Terraform alerting integrated with AWS CloudWatch
+- Built AWS Lambda and API Gateway REST integrations and Kafka event-streaming pipelines for fault-tolerant distributed processing
+- Achieved 90% unit test coverage with JUnit and Mockito; enforced SonarQube quality gates across microservices
 
 Client: Ancestry.com - Media Platform Modernization
-
-- Led Java 8 to Java 11 upgrade for Image Processing and Media 360 REST API microservices improving application performance and remediating CVE security vulnerabilities with zero downtime deployment
-- Migrated Spring Boot microservices from AWS EC2 to OpenShift Kubernetes platform with Docker containerization and cloud native orchestration for media streaming backend services
-- Developed Apache Kafka producers and consumers for asynchronous microservices communication and media record event streaming enabling real time data synchronization across distributed systems
-- Built Jenkins Git CI/CD continuous integration continuous deployment pipelines and unified monorepo structure reducing build pipeline maintenance overhead by 25 percent
-- Implemented Spring Security multi factor authentication integration for secure RESTful web services and API development on media platform backend
-
-Technologies Used: Java 11, Spring Boot, Spring Security, Microservices, REST API, Apache Kafka, AWS EC2, AWS S3, AWS AMI, Docker, Kubernetes, OpenShift, Jenkins, Git, CI/CD, Maven, Gradle, Dynatrace
-
+- Led Java 8 to Java 11 upgrade for Media 360 REST API microservices with zero downtime and CVE remediation
+- Reduced CI/CD pipeline maintenance overhead by 25% through Jenkins Git automation and unified monorepo structure
+- Migrated Spring Boot services from AWS EC2 to OpenShift Kubernetes with Kafka async event processing
 
 Xebia IT Architects Pvt Ltd
-Job Title: Senior Java Developer | Technical Lead | Spring Boot Microservices
-Location: Bangalore, Karnataka, India
-Employment Dates: July 2022 to March 2023
-Duration: 9 Months
+Senior Java Developer | Technical Lead | Bangalore, India
+July 2022 to March 2023
 
 Client: MATT Branch Exam Platform
-
-- Architected and developed Spring Boot microservices using Spring Data JPA Hibernate and JPA for backend application development and enterprise web application services
-- Built REST API and RESTful web services for asynchronous microservices processing increasing system throughput by 35 percent under peak load for branch exam platform
-- Implemented Spring Batch batch processing pipelines for large volume Excel file data import and SQL database operations across hierarchical relational database structures
-- Applied object oriented programming OOP SOLID principles and Repository design pattern in service layer and data access layer improving software design and code extensibility
-- Led Agile Scrum sprint delivery code reviews and legacy Java code refactoring for cross functional software development team ensuring SDLC quality standards
-
-Technologies Used: Java, Spring Boot, Spring Data JPA, Hibernate, JPA, Microservices, REST API, SQL, Spring Batch, Maven, Git, JUnit, Mockito, Agile, Scrum, SDLC
-
+- Increased system throughput by 35% under peak load via asynchronous Spring Boot REST microservices
+- Built Spring Batch pipelines for large-volume Excel imports and Spring Data JPA services for backend modules
 
 Tech Mahindra Pvt Ltd
-Job Title: Senior Java Developer | Technical Lead | Spring Boot Microservices
-Location: Bangalore, Karnataka, India
-Employment Dates: May 2021 to June 2022
-Duration: 1 Year
+Senior Java Developer | Technical Lead | Bangalore, India
+May 2021 to June 2022
 
 Client: MGM Identity and Finance Platform
+- Architected and delivered 3 critical microservices (User Roles, Month-End Process, Month-End Adjustment) using Spring Boot and JPA, reducing deployment times for new features by 40%
+- Built OAuth2/OIDC integration with Okta and Spring Security for finance platform REST APIs
 
-- Architected and delivered three critical microservices User Roles Month End Process and Month End Adjustment using Spring Boot and JPA reducing deployment times for new features by 40 percent
-- Built Spring Boot POC integrating Okta OAuth2 OIDC OpenID Connect with Spring Security delivering scalable role based authorization framework for finance platform REST API backend services
-- Implemented Factory and Strategy design patterns for authorization framework and role based access control improving maintainability of microservices architecture and software design
-
-Technologies Used: Java, Spring Boot, Spring Security, OAuth2, OIDC, Okta, Spring Data JPA, Hibernate, JPA, Microservices, REST API, Maven, Git, Design Patterns, SOLID Principles
-
-Client: SetPlex Media Monolith to Microservices Migration
-
-- Drove end to end monolith to microservices migration decomposing legacy Java enterprise application into independently deployable Spring Boot microservices improving team deployment autonomy
-- Developed Spring Boot Spring Cloud microservices with Feign Client for inter service communication and distributed systems REST API integration across media streaming platform
-- Achieved 90 percent unit test coverage using JUnit Mockito test driven development TDD and Spring AOP centralized logging with health checks for production microservices monitoring
-- Applied SOLID principles Dependency Injection and Adapter design pattern during microservices architecture transformation reducing deployment cycle from monthly to weekly releases
-
-Technologies Used: Java, Spring Boot, Spring Cloud, Feign Client, Microservices, Mockito, JUnit, Maven, Git, Design Patterns, SOLID Principles, AOP, REST API
-
+Client: SetPlex - Monolith to Microservices
+- Drove monolith-to-microservices migration into independently deployable Spring Boot services with Feign Client
+- Achieved 90% unit test coverage with JUnit and Mockito; reduced release cycle from monthly to weekly deployments
 
 Napier Healthcare Solutions Pvt Ltd
-Job Title: Senior Java Developer | Technical Lead | Java Backend Developer
-Location: Bangalore, Karnataka, India
-Employment Dates: November 2016 to December 2020
-Duration: 4 Years
+Senior Java Developer | Technical Lead | Bangalore, India
+November 2016 to December 2020
+- Migrated hospital management monolith to Spring Boot microservices (Inpatient, Outpatient, Pharmacy, Lab, Inventory) using Spring Cloud and Feign Client
+- Led team of 8 engineers achieving 95% quality release rate and 90% unit test coverage with SonarQube standards
+- Built HL7 messaging integration and async REST APIs with Spring AOP logging for production healthcare systems
 
-Healthcare Information System - Microservices Transformation and Core Product Development
+Napier Healthcare Solutions Pvt Ltd - Senior Java Developer | July 2014 to October 2016
+- Achieved MU2 Meaningful Use certification scoring 36 of 36 criteria for US hospital compliance system
 
-- Migrated monolithic hospital management Java application to Spring Boot microservices architecture using Spring Cloud and Feign Client for Inpatient Outpatient Pharmacy Lab and Inventory modules
-- Developed REST API microservices with Hibernate JPA data persistence and SQL Server database for healthcare enterprise application development and HL7 messaging integration
-- Led software development team of 8 engineers in Agile Scrum sprint planning estimation and technical delivery achieving 95 percent quality release rate across SDLC releases
-- Maintained 90 percent unit test coverage using JUnit Mockito and enforced SonarQube code review software quality assurance standards for backend development team
-- Built HL7 messaging integration and healthcare data exchange workflows for hospital information system supporting clinical and administrative microservices modules
-- Implemented asynchronous REST API Spring AOP centralized logging and health checks for production microservices monitoring and production support
-
-Technologies Used: Java 8, Spring Boot, Spring Cloud, Feign Client, Hibernate, JPA, Microservices, REST API, SQL Server, JUnit, Mockito, HL7, Maven, Git, Agile, Scrum, SonarQube
-
-
-Napier Healthcare Solutions Pvt Ltd
-Job Title: Senior Java Developer
-Location: Bangalore, Karnataka, India
-Employment Dates: July 2014 to October 2016
-Duration: 2 Years
-
-- Achieved MU2 Meaningful Use certification 36 of 36 criteria for US hospital healthcare compliance and security compliance enterprise system
-- Developed HL7 messaging immunization workflow modules using Java Spring Hibernate and SQL Server relational database for healthcare backend development
-
-Technologies Used: Java, Spring, Hibernate, SQL Server, HL7, REST API, Maven, SQL
-
-
-Napier Healthcare Pvt Ltd
-Job Title: Java Software Developer | Application Developer
-Location: Bangalore, Karnataka, India
-Employment Dates: August 2011 to July 2014
-Duration: 3 Years
-
-- Developed backend features for dental practice management enterprise web application using Java Struts2 Spring Hibernate JSP Servlets and SQL Server database
-- Implemented Hibernate HQL database queries and resolved production defects in Struts2 Spring Hibernate stack ensuring production support and software quality
-
-Technologies Used: Java, Struts2, Spring, Hibernate, JSP, Servlets, SQL Server, SQL, Maven, JDBC
+Napier Healthcare Pvt Ltd - Java Developer | August 2011 to July 2014
+- Developed dental practice management backend using Java, Struts2, Spring, Hibernate, and SQL Server
 
 
 KEY ACHIEVEMENTS
 
-- Drove 2 enterprise monolith to microservices migrations across Healthcare and Media domains improving deployment frequency and team autonomy for distributed systems
-- Architected and delivered 3 critical finance microservices reducing deployment times for new features by 40 percent using Spring Boot and JPA
-- Upgraded Java 8 to Java 11 for high traffic Media 360 REST API microservices with zero downtime deployment and CVE security remediation
-- Maintained 95 percent quality release rate and 90 percent unit test coverage using JUnit Mockito SonarQube and rigorous code review across multiple engagements
-- Reduced production downtime by 15 percent through root cause analysis and incident management across AWS Kubernetes microservices production environments
-- Led MU2 Meaningful Use certification 36 of 36 criteria for US hospital accreditation demonstrating healthcare IT compliance expertise
-- Led software development teams of 6 to 8 engineers delivering Agile Scrum sprint commitments for enterprise Java Spring Boot microservices projects
+- Reduced incident response time by 40% and production downtime by 15% across AWS/Kubernetes microservices engagements
+- Delivered 40% faster feature deployments via 3 finance microservices and cut release cycles from monthly to weekly at SetPlex
+- Maintained 90% unit test coverage and 95% quality release rate across multiple enterprise Java projects
+- Led 2 enterprise monolith-to-microservices transformations in Healthcare and Media domains
+- Achieved MU2 certification 36/36 criteria - federally mandated US hospital compliance benchmark
 
 
 EDUCATION
 
-Degree: Master of Computer Applications MCA
-University: Visvesvaraya Technological University VTU
-College: Dr. Ambedkar Institute of Technology, Bangalore
-Location: Bangalore, Karnataka, India
-Graduation Year: 2010
-Field of Study: Computer Applications Computer Science
-
-
-CERTIFICATIONS
-
-(Add only certifications you have earned. Recommended for higher ATS match: AWS Certified Developer Associate, AWS Certified Solutions Architect Associate. Remove this section if none apply.)
-
-
-WORK AUTHORIZATION
-
-Authorized to work in India
-Open to Remote Hybrid and Onsite opportunities in Bangalore Karnataka India
-
-
-TARGET ROLES
-
-Senior Java Developer, Java Developer, Java Backend Developer, Spring Boot Developer, Microservices Developer, AWS Developer, Backend Engineer, Backend Developer, Software Engineer, Software Developer, Technical Lead Java, Lead Developer, Cloud Engineer, Application Developer, Enterprise Java Developer, J2EE Developer, API Developer, Server Side Developer, Distributed Systems Engineer, DevOps Engineer Java, Full Stack Backend Developer
+Master of Computer Applications (MCA), Dr. Ambedkar Institute of Technology, Bangalore (VTU), 2010

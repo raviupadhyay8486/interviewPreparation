@@ -6,7 +6,17 @@ This version targets **90-95% ATS match** for typical Senior Java Developer / Sp
 
 ---
 
-## What Changed vs 55% Version
+## Analyzer Feedback Fixes (Latest)
+
+| Finding | Status |
+|---------|--------|
+| Summary section | Kept — concise 90-word summary |
+| Job level match | Added "Experience Level: Senior (14 Years)" in header |
+| Measurable results | 5+ metrics in KEY ACHIEVEMENTS + bullets (40%, 90%, 95%, 15%, 35%, 25%, 36/36) |
+| Web presence | LinkedIn URL in header: https://www.linkedin.com/in/ravi-upadhyay-57a50a23/ |
+| Word count | Reduced from 1137 to ~714 words (under 1000 target) |
+| Layout | Single column, no tables, ATS-safe PDF |
+
 
 | Area | 55% Resume | 95% ATS Resume |
 |------|------------|----------------|

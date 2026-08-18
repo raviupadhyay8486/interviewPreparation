@@ -71,7 +71,7 @@ def build_pdf(source: Path, output: Path) -> None:
             pdf.set_font("Helvetica", size=9)
             continue
 
-        if line.startswith("Client:") or line.startswith("Healthcare Information System"):
+        if line.startswith("Client:") or line.startswith("Healthcare Information System") or " — " in line and "Pvt Ltd" in line:
             pdf.set_font("Helvetica", "B", 9)
             pdf.multi_cell(width, 4, line)
             pdf.set_font("Helvetica", size=9)
