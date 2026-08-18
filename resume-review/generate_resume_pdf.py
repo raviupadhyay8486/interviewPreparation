@@ -99,6 +99,10 @@ if __name__ == "__main__":
             "Ravi_Ranjan_Upadhyay_Resume_JD_Backend_Platform.md",
             "Ravi_Ranjan_Upadhyay_Resume_JD_Backend_Platform.pdf",
         ),
+        (
+            "Ravi_Ranjan_Upadhyay_Java_Full_Stack_Architect.md",
+            "Ravi_Ranjan_Upadhyay_Java_Full_Stack_Architect.pdf",
+        ),
     ]
     for src_name, out_name in sources:
         source = base / src_name
