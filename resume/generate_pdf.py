@@ -34,14 +34,14 @@ def build_pdf(source: Path, output: Path) -> None:
             pdf.ln(1)
             continue
 
-        if "Java Architect" in line and "14.5" in line:
+        if line == "Java Architect | 14.5+ Years":
             pdf.set_font("Helvetica", "B", 11)
             pdf.multi_cell(width, 5, line)
             pdf.ln(1)
             pdf.set_font("Helvetica", size=9)
             continue
 
-        if line.startswith("Java · Spring Boot · Microservices"):
+        if line.startswith("Java - AWS - Microservices"):
             pdf.set_font("Helvetica", "B", 10)
             pdf.multi_cell(width, 5, line)
             pdf.ln(1)

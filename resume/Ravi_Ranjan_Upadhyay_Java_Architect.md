@@ -1,8 +1,8 @@
 RAVI RANJAN UPADHYAY
 
-Java Architect | Spring Boot · Spring Cloud · Kafka · Kubernetes · Cloud Platforms | 14.5+ Years
+Java Architect | 14.5+ Years
 
-Java · Spring Boot · Microservices · AWS · Kafka · Kubernetes · Design Patterns
+Java - AWS - Microservices - Spring - Hibernate - Kafka - Kubernetes
 
 Bangalore, India | +91 8125328360 | raviupa709@gmail.com | Immediate Joiner | Open to Pune / Bangalore
 LinkedIn: https://www.linkedin.com/in/ravi-upadhyay-57a50a23/
