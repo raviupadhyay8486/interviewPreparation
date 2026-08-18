@@ -19,6 +19,7 @@ Open the folder in VS Code / Cursor / IntelliJ, then use the map below.
 
 | Path | Purpose |
 |------|---------|
+| [`resume/`](./resume/) | Updated resume (Java Architect PDF) |
 | [`docs/mrcs/`](./docs/mrcs/) | MRCS product docs: architecture, B2E auth, UI flows, APIs, work notes |
 | [`docs/study-plans/`](./docs/study-plans/) | Interview study plans (Java 8 + Spring Boot questions) |
 | [`projects/java8-springboot-learn/`](./projects/java8-springboot-learn/) | **Runnable Java 1.8 + Spring Boot topic packages** (streams, collectors, etc.) |

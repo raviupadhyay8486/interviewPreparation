@@ -43,6 +43,7 @@ git pull origin cursor/update-resume-mrcs-dfbf
 
 ```text
 interviewPreparation/
+├── resume/                   ← Updated resume (PDF)
 ├── docs/
 │   ├── mrcs/                 ← MRCS project knowledge (architecture, UI, APIs, B2E)
 │   └── study-plans/          ← Java 8 study plans + interview Q&A
