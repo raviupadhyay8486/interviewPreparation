@@ -41,7 +41,10 @@ Code scaffold: **[projects/mrcs/README.md](./projects/mrcs/README.md)**
 
 ## Resume
 
-[`resume/Ravi_Ranjan_Upadhyay_Java_Architect.pdf`](./resume/Ravi_Ranjan_Upadhyay_Java_Architect.pdf)
+| File | Use for |
+|------|---------|
+| [`resume/Ravi_Ranjan_Upadhyay_Java_Architect.pdf`](./resume/Ravi_Ranjan_Upadhyay_Java_Architect.pdf) | General Java Architect applications |
+| [`resume/Ravi_Ranjan_Upadhyay_HappiestMinds_Java_Architect.pdf`](./resume/Ravi_Ranjan_Upadhyay_HappiestMinds_Java_Architect.pdf) | Happiest Minds (HLD/LLD, Spring Boot microservices, AWS S3/ECS, Kafka) |
 
 ## Interview study plan
 
