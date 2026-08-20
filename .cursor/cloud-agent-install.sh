@@ -7,6 +7,9 @@ cd "$ROOT"
 echo "==> Building Java demo"
 (cd demos/java-hello && mvn -q -DskipTests package)
 
+echo "==> Building Spring Boot learning project"
+(cd projects/java8-springboot-learn && mvn -q -DskipTests package)
+
 echo "==> Installing React demo dependencies"
 (cd demos/react-hello && npm ci)
 

@@ -12,12 +12,21 @@
       "name": "react-dev",
       "command": "./.cursor/run-react-dev.sh",
       "description": "React interview prep demo dev server on port 5173"
+    },
+    {
+      "name": "spring-boot",
+      "command": "./.cursor/run-spring-boot.sh",
+      "description": "Java 8 + Spring Boot learning API on port 8088"
     }
   ],
   "ports": [
     {
       "name": "react-dev",
       "port": 5173
+    },
+    {
+      "name": "spring-boot",
+      "port": 8088
     }
   ]
 }
