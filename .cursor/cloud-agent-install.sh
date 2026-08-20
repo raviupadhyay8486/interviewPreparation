@@ -18,10 +18,10 @@ echo "==> Initializing Terraform demo"
 
 echo "==> Verifying toolchains"
 java -version
-mvn -version | head -1
+mvn -version
 node --version
 npm --version
-terraform version | head -1
+terraform version
 aws --version
 
 echo "Install complete."
