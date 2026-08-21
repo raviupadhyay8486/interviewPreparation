@@ -55,7 +55,7 @@ interviewPreparation/
 
 | You want to… | Go here |
 |--------------|---------|
-| Download resume | `resume/Ravi_Ranjan_Upadhyay_Java_Architect.pdf` (general), `resume/Ravi_Ranjan_Upadhyay_HappiestMinds_Java_Architect.pdf` (Happiest Minds), or `resume/Ravi_Ranjan_Upadhyay_Coforge_Lead.pdf` (Coforge Lead) |
+| Download resume | `resume/Ravi_Ranjan_Upadhyay_Java_Architect.pdf` (general), `resume/Ravi_Ranjan_Upadhyay_HappiestMinds_Java_Architect.pdf` (Happiest Minds), `resume/Ravi_Ranjan_Upadhyay_Coforge_Lead.pdf` (Coforge Lead), or `resume/Ravi_Ranjan_Upadhyay_Java_OpenShift_Lead.pdf` (Java/OpenShift Lead JD) |
 | Study Java 1.8 Q&A | `docs/study-plans/java8-interview-qa.md` |
 | Day-by-day Java plan | `docs/study-plans/java8-day-by-day.md` |
 | Hard Java challenges | `docs/study-plans/java8-topics-questions-challenges.md` |
