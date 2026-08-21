@@ -17,12 +17,12 @@ const insertApiBaseUrl =
 export const fetchLenderByAccountNumber = async (accountNumber) => {
   try {
     const endpoint = `lender/${accountNumber}/F`;
-    const response = await fetchAPI(apiBaseUrl, "GET", endpoint);
+    const response = await fetchAPI(apiBaseUrl, "GET", endpoint, null);
     const lenderData = await response.json();
     return lenderData;
   } catch (error) {
     console.error(
-      `Error fetching lender data for account number ${accountNumber}`,
+      `Error fetching lender data for account number ${accountNumber}:`,
       error
     );
     throw error;
@@ -83,7 +83,8 @@ export const insertMortgageRecord = async (requestObject) => {
       "POST",
       apiPath,
       null,
-      requestObject
+      requestObject,
+      null
     );
     const responseData = await response.json();
 
@@ -93,7 +94,9 @@ export const insertMortgageRecord = async (requestObject) => {
         ? messages.join("\n")
         : messages ||
           responseData?.error ||
-          `Request failed with status ${response.status}`;
+          `Request failed with status ${
+            response.status || responseData?.status
+          }`;
       throw new Error(detail);
     }
 
