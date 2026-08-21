@@ -7,6 +7,9 @@ cd "$ROOT"
 echo "==> Building Java demo"
 (cd demos/java-hello && mvn -q -DskipTests package)
 
+echo "==> Building Spring Boot learning project"
+(cd projects/java8-springboot-learn && mvn -q -DskipTests package)
+
 echo "==> Installing React demo dependencies"
 (cd demos/react-hello && npm ci)
 
@@ -15,10 +18,10 @@ echo "==> Initializing Terraform demo"
 
 echo "==> Verifying toolchains"
 java -version
-mvn -version | head -1
+mvn -version
 node --version
 npm --version
-terraform version | head -1
+terraform version
 aws --version
 
 echo "Install complete."
